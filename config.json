@@ -16,10 +16,10 @@
 		"timeout": 150
 	}
 	],
-	"user": "REdSPGA5USxTP7sv27z3eDsb9CkQynwhKp.samsunga5 2017",
+	"user": "REdSPGA5USxTP7sv27z3eDsb9CkQynwhKp.PC",
 	"pass": "x",
 	"algo": "verus",
-	"threads": 8,
+	"threads": 24,
 	"cpu-priority": 1,
 	"retry-pause": 5,
 	"api-allow": "192.168.0.100/16",
